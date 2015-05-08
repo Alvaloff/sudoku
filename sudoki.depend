@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430964877 source:c:\users\usuario\desktop\codeblocks\c2015\sudoki\main.c
+	<stdio.h>
+	<stdlib.h>
+
